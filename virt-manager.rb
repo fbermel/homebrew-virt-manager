@@ -33,12 +33,12 @@ class VirtManager < Formula
 
   resource "idna" do
     url "https://pypi.io/packages/source/i/idna/idna-3.3.tar.gz"
-    sha256 "675ad031684619ba9119d43b4583b81965ec2aa3a02e04dd288850e111ed9a4e"
+    sha256 "9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d"
   end
 
   resource "certifi" do
     url "https://pypi.io/packages/source/c/certifi/certifi-2021.10.8.tar.gz"
-    sha256 "ab509ae4582abd97c33f803e2557169cfbc709625b77fb9ecef86be83db5bf05"
+    sha256 "78884e7c1d4b00ce3cea67b44566851c4343c120abd683433ce934a68ea58872"
   end
 
   resource "chardet" do
