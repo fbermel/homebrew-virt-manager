@@ -11,6 +11,7 @@ class VirtManager < Formula
   depends_on "pkg-config" => :build
 
   depends_on "adwaita-icon-theme"
+  depends_on "docutils"
   depends_on "gtk+3"
   depends_on "gtk-vnc"
   depends_on "gtksourceview4"
